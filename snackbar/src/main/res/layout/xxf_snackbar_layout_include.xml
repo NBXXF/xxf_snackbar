@@ -43,7 +43,6 @@
         android:paddingLeft="@dimen/design_snackbar_padding_horizontal"
         android:paddingRight="@dimen/design_snackbar_padding_horizontal"
         android:visibility="gone"
-        android:textColor="?attr/colorAccent"
         style="?attr/borderlessButtonStyle"
         tools:visibility="visible"
         tools:text="Action"/>
