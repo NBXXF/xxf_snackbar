@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
-import com.xxf.view.sanckbar.Snackbar;
+import com.xxf.view.snackbar.Snackbar;
 
 public class MainActivity extends AppCompatActivity {
 

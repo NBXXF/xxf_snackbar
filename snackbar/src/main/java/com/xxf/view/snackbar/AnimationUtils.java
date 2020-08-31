@@ -1,4 +1,4 @@
-package com.xxf.view.sanckbar;
+package com.xxf.view.snackbar;
 
 
 import androidx.interpolator.view.animation.FastOutSlowInInterpolator;
